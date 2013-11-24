@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{loop="$1"}$2{/loop}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>loop</tabTrigger>
+  <description>insert loop section</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.basic</scope>
+</snippet>

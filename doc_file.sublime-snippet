@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+/*
+ * $TM_FILENAME
+ *
+ * Copyright ${1:2013} ${2:geniv} <${3:geniv.radek@gmail.com}>
+ *
+ */
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>doc_file</tabTrigger>
+  <description>document block for file</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.php</scope>
+</snippet>
